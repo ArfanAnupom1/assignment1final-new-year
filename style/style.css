@@ -119,7 +119,7 @@ html {
 
 .midnight-party {
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Vectorrr.png);
-    height: auto;
+    height: 77vh;
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 50px 140px;
