@@ -524,6 +524,7 @@ span {
     flex-shrink: 0;
     background: #070211;
     padding-top: 120px;
+    margin-top: 120px;
 }
 
 .Contact {
